@@ -4,7 +4,7 @@
     <title>Annie form</title>
     <style>
         body {
-          font-family: Arial;
+          font-family: Arial
           padding: 20px
         }
         form {
@@ -55,5 +55,6 @@
 </body>
 </head>
 </html>
+
 
 
